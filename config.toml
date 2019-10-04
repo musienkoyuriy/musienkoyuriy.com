@@ -1,8 +1,5 @@
-baseURL = "http://example.org/"
 
-
-
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/"
+baseurl = "https://musienkoyuriy.github.io/musienkoyuriy.com"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -13,7 +10,6 @@ publishdir = "public"
 
 author = "Yuriy Musienko"
 title = "Yuriy Musienko"
-
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
@@ -25,14 +21,14 @@ enableRobotsTXT = true
 [params]
 author = "Yuriy Musienko"
 intro = "Senior Software Engineer"
-description = "Now [@Valor Software](https://valor-software.com)"
+description = "Now [@ValorSoftware](https://valor-software.com)"
 ## authorimage = "avatar.jpeg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Developer. Technical researcher."
+keywords = "musienkoyuriy, development, contractor, angular, react, golang, frontend"
 
 ## Social Accounts
 [params.social]
@@ -52,11 +48,11 @@ socialmarkup = true
 ## Main Menu
 [[menu.main]]
     name = "blog"
-    weight = 100
+    weight = 400
     identifier = "blog"
     url = "/blog/"
 [[menu.main]]
     name = "about"
     identifier = "about"
-    weight = 200
+    weight = 400
     url = "/about/"
