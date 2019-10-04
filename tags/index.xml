@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yuriy Musienko</title>
-    <link>http://example.org/tags/</link>
+    <link>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/</link>
     <description>Recent content in Tags on Yuriy Musienko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://musienkoyuriy.github.io/musienkoyuriy.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>about</title>
-      <link>http://example.org/tags/about/</link>
+      <link>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://example.org/tags/about/</guid>
+      <guid>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>belson</title>
-      <link>http://example.org/tags/belson/</link>
+      <link>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/belson/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>http://example.org/tags/belson/</guid>
+      <guid>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/belson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gavin</title>
-      <link>http://example.org/tags/gavin/</link>
+      <link>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/gavin/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>http://example.org/tags/gavin/</guid>
+      <guid>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/gavin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hardware</title>
-      <link>http://example.org/tags/hardware/</link>
+      <link>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/hardware/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>http://example.org/tags/hardware/</guid>
+      <guid>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hooli</title>
-      <link>http://example.org/tags/hooli/</link>
+      <link>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/hooli/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>http://example.org/tags/hooli/</guid>
+      <guid>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/hooli/</guid>
       <description></description>
     </item>
     

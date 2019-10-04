@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on Yuriy Musienko</title>
-    <link>http://example.org/tags/about/</link>
+    <link>https://musienkoyuriy.github.io/musienkoyuriy.com/tags/about/</link>
     <description>Recent content in about on Yuriy Musienko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://musienkoyuriy.github.io/musienkoyuriy.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://musienkoyuriy.github.io/musienkoyuriy.com/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://musienkoyuriy.github.io/musienkoyuriy.com/about/</guid>
       <description>I am experienced and passionate software engineer with focus on creating accessible interfaces and secure APIs. As for commercial products the main experience I gained in development of client-side for enterprise applications using Angular but non-stop researching allows me to easily switch to different technologies within the JS ecosystem. Also I build an APIs using Golang.
 Managed to work in areas such as: cargo transportation processes for airlines, targeting advertising systems, multi-lingual search engines, multitenancy e-commerce systems, seed-to-sale operations etc.</description>
     </item>
