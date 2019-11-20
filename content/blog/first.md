@@ -8,6 +8,6 @@ showcomments = true
 slug = ""
 tags = ["gavin", "belson", "hooli", "hardware"]
 title = "Future post"
-description = "Here will be a post soon"
+description = "Here'll be a post soon"
 
 +++
