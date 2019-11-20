@@ -1,0 +1,58 @@
+
+baseurl = "musienkoyuriy.com"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Yuriy Musienko"
+title = "Yuriy Musienko"
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+## disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Yuriy Musienko"
+intro = "Senior Software Engineer"
+description = "Now [@ValorSoftware](https://valor-software.com)"
+## authorimage = "avatar.jpeg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Developer. Technical researcher."
+keywords = "musienkoyuriy, development, contractor, angular, react, golang, frontend"
+
+## Social Accounts
+[params.social]
+github = "musienkoyuriy"
+linkedin = "musienkoyuriy"
+twitter = "musienko_yuriy"
+email = "musienkoyuriy@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2013 - 2019. Yuriy Musienko. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = false
+highlightjs = true
+socialmarkup = true
+
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 400
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 400
+    url = "/about/"
