@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Yuriy Musienko</title>
+    <link>musienkoyuriy.com/tags/</link>
+    <description>Recent content in Tags on Yuriy Musienko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="musienkoyuriy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>musienkoyuriy.com/tags/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>musienkoyuriy.com/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>belson</title>
+      <link>musienkoyuriy.com/tags/belson/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>musienkoyuriy.com/tags/belson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gavin</title>
+      <link>musienkoyuriy.com/tags/gavin/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>musienkoyuriy.com/tags/gavin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>musienkoyuriy.com/tags/hardware/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>musienkoyuriy.com/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hooli</title>
+      <link>musienkoyuriy.com/tags/hooli/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>musienkoyuriy.com/tags/hooli/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
