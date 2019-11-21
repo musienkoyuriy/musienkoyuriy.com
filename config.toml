@@ -6,7 +6,7 @@ languageCode = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "public"
+publishDir = "docs"
 
 author = "Yuriy Musienko"
 title = "Yuriy Musienko"
