@@ -3,36 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>musienkoyuriy.com/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>musienkoyuriy.com/categories/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>musienkoyuriy.com/tags/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>musienkoyuriy.com/categories/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>musienkoyuriy.com/tags/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>musienkoyuriy.com/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>musienkoyuriy.com/categories/ad/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url>
@@ -44,6 +14,11 @@
   
   <url>
     <loc>musienkoyuriy.com/blog/</loc>
+    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>musienkoyuriy.com/categories/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url>
   
@@ -64,6 +39,16 @@
   
   <url>
     <loc>musienkoyuriy.com/tags/hooli/</loc>
+    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>musienkoyuriy.com/tags/</loc>
+    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>musienkoyuriy.com/</loc>
     <lastmod>2016-10-02T15:59:13-04:00</lastmod>
   </url>
   
