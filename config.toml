@@ -53,6 +53,6 @@ socialmarkup = true
     url = "/blog/"
 [[menu.main]]
     name = "about"
-    identifier = "about"
     weight = 400
+    identifier = "about"
     url = "/about/"
