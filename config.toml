@@ -47,11 +47,6 @@ socialmarkup = true
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
-    weight = 400
-    identifier = "blog"
-    url = "/blog/"
-[[menu.main]]
     name = "about"
     weight = 400
     identifier = "about"

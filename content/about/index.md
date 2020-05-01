@@ -10,8 +10,18 @@ title = "About"
 showpagemeta = false
 +++
 
-I'm passionate software engineer with focus on creating accessible interfaces and secure APIs. The main experience I gained in client-side development for enterprise applications using **Angular** but non-stop researching allows me to easily switch to different technologies within the JS ecosystem. Also I build an APIs using **Golang**.
+I'm a passionate software engineer with focus on creating accessible interfaces and secure APIs. Non-stop researching allows me to easily switch between different technologies, frameworks and programming platforms.
 
-Managed to work in areas such as: cargo transportation processes for airlines, targeting advertising systems, multi-lingual search engines, multitenancy e-commerce systems, seed-to-sale operations etc.
+During the my career as a software enfineer I managed to work in areas such:
+
+- *Cargo transportation processes for airlines*
+- *Targeting advertising systems*
+- *Multi-lingual search engines*
+- *Multitenancy e-commerce systems*
+- *Seed-to-Sale platforms*
+- *ETL systems*.
+- *Open source component libraries and tools developers utilities*
+
+Techologies such **Golang**, **Javascript** and ecosystem around them successfully helps me to deliver my solutions.
 
 By the way I also [*create open source*](https://github.com/musienkoyuriy).

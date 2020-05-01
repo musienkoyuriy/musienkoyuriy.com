@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap");
 @-ms-viewport
 {
     width: device-width;
@@ -21,7 +22,7 @@ a:link
 }
 body
 {
-    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+    font-family: 'Montserrat', 'Monserrat', 'Lato', sans-serif;
     font-size: 20px;
     font-weight: 400;
 
@@ -56,7 +57,7 @@ li
 .author h6,
 .author p
 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Monserrat Slab', serif;
 }
 .category
 {
@@ -76,7 +77,7 @@ li
 }
 div.content
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Monserrat', sans-serif;
     font-size: 18px;
     font-weight: 300;
 
@@ -84,19 +85,19 @@ div.content
 }
 .copyright
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Monserrat', sans-serif;
     font-size: 12px;
     font-weight: 200;
 }
 .description
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Monserrat', sans-serif;
     font-weight: 200;
     color: #8b8b8b;
 }
 .error
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Monserrat', sans-serif;
 
     margin-top: 100px;
 }
@@ -144,7 +145,7 @@ div.content
 }
 .intro
 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Monserrat Slab', serif;
     font-weight: 200;
     color: #777;
 }
@@ -154,7 +155,7 @@ h3.intro
 }
 .list
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Monserrat', sans-serif;
 
     margin-top: 50px;
 }
@@ -164,7 +165,7 @@ h3.intro
 }
 .list-entry
 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Monserrat Slab', serif;
     font-size: 25px;
     font-weight: 400;
 
@@ -197,7 +198,7 @@ h3.intro
 }
 .meta
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Monserrat', sans-serif;
     font-size: 12px;
     font-weight: 200;
 
@@ -209,7 +210,7 @@ a.meta
 }
 h6.meta
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Monserrat', sans-serif;
     font-size: 12px;
     font-weight: 200;
 
@@ -220,7 +221,7 @@ section.meta {
 }
 .powered
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Monserrat', sans-serif;
     font-size: 12px;
     font-weight: 300;
 }
@@ -235,7 +236,7 @@ section.meta {
 }
 .title
 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Monserrat Slab', serif;
     font-weight: 400;
 
     color: #555;
@@ -254,7 +255,7 @@ header.title
     }
     .list
     {
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Monserrat', sans-serif;
 
         margin-top: 30px;
     }
