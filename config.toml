@@ -1,5 +1,5 @@
 
-baseurl = "https://musienkoyuriy.github.io/musienkoyuriy.com/"
+baseurl = "https://musienkoyuriy.com/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
