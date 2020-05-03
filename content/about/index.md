@@ -22,6 +22,6 @@ During the my career as a software enfineer I managed to work in areas such:
 - *ETL systems*.
 - *Open source component libraries and tools developers utilities*
 
-Techologies such **Golang**, **Javascript** and ecosystem around them successfully helps me to deliver my solutions.
+Technologies such **Golang**, **Javascript** and ecosystem around them successfully helps me to deliver my solutions.
 
 By the way I also [*create open source*](https://github.com/musienkoyuriy).
