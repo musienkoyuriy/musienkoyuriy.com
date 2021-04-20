@@ -10,7 +10,7 @@ title = "About"
 showpagemeta = false
 +++
 
-I'm a passionate software engineer with focus on creating accessible interfaces and secure APIs. Non-stop researching allows me to easily switch between different technologies, frameworks and programming platforms.
+I'm a passionate software engineer with focus on creating accessible interfaces and fast APIs. Non-stop researching allows me to easily switch between different technologies, frameworks and programming platforms.
 
 During the my career as a software enfineer I managed to work in areas such:
 
